@@ -5,7 +5,7 @@
 🌱 I’m currently learning: Al/ML<br/>
 🤔 I’m looking for help with: Internships<br/>
 📫 How to reach me: subhransupagad@gmail.com<br/>
-😄 Pronouns: Subhransu Pagad<br/>
+😄 Pronouns: he/him<br/>
 ⚡ Fun fact: The term "computer bug" originates from a real moth found trapped in a Harvard Mark II computer relay in 1947.<br/>
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jinu_s8) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jinu__s8) <br/>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/subhransu-pagad-8b000326a)  [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@subhransuPagad) <br/> [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subhransupagad@gmail.com) 
